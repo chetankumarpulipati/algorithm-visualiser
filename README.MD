@@ -73,5 +73,3 @@ Here are some example images illustrating the application (replace with actual s
 **Graph Visualization (e.g., Kruskal's MST):**
 
 ![Kruskal's MST Visualization](kruskals_example.png)
-
-**(Note: Please replace `bubble_sort_example.png`, `a_star_example.png`, and `kruskals_example.png` with your actual image file names and ensure they are placed in the same directory as your README.md file.)**
