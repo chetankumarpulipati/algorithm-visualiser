@@ -42,7 +42,9 @@ Algorithm Visualizer is a Python-based desktop application that provides an inte
 
 Usage
 1. Run the application:
+
 ```python main.py
+
 2. A GUI window will open. Click on the "Choose Algorithm" button to open the menu.
 3. Select the desired algorithm category:
     Searching Algorithms
